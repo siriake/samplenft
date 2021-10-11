@@ -4,14 +4,14 @@
             "id": 0,
             "description": "My NFT",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://siri-art.com/TestHTML5_01/index.html",
+            "image": "https://siri-art.com/TestHTML5_01",
             "name": "My NFT 0"
         },
         {
             "id": 1,
             "description": "My NFT",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://siri-art.com/TestHTML5_01/111.png",
+            "image": "https://siri-art.com/TestHTML5_01/",
             "name": "My NFT 1"
         },
         {
